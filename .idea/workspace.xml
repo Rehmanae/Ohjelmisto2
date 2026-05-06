@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f04e1923-4cab-435d-b290-c192ce7b05f2" name="Changes" comment="Moduuli4 tehtävä">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harjoitus/task1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harjoitus/task1/script.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Rehmanae&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Rehmanae/Ohjelmisto2.git&quot;,
+    &quot;accountId&quot;: &quot;d248645c-1382-4bba-b4f8-a6a23291ba31&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3CGieelvzHBL01Ht0sCZALb1BP4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Node.js.script.js.executor": "Run",
+    "Python.Lore.executor": "Run",
+    "Python.Peli.executor": "Run",
+    "Python.app (1).executor": "Run",
+    "Python.app (2).executor": "Run",
+    "Python.app.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rehma\OneDrive - Metropolia Ammattikorkeakoulu Oy\Documents\Ohjelmisto2\simple_roulette_student" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="index" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="script.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/moduuli2/task1">
+      <EXTENSION ID="com.intellij.javascript.debugger.execution.StartBrowserRunConfigurationExtension">
+        <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" start="true" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.32098.104" />
+        <option value="bundled-python-sdk-1aa8deef9a7b-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.32098.104" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f04e1923-4cab-435d-b290-c192ce7b05f2" name="Changes" comment="" />
+      <created>1776018419994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776018419994</updated>
+      <workItem from="1776018421875" duration="737000" />
+      <workItem from="1776628608593" duration="1244000" />
+      <workItem from="1776686001329" duration="7899000" />
+      <workItem from="1776756942068" duration="1679000" />
+      <workItem from="1777446432576" duration="11000" />
+      <workItem from="1777571073373" duration="11355000" />
+      <workItem from="1777651899147" duration="73000" />
+      <workItem from="1777652446087" duration="232000" />
+      <workItem from="1777653694963" duration="26000" />
+      <workItem from="1777802197309" duration="3022000" />
+      <workItem from="1777837166411" duration="1210000" />
+      <workItem from="1777911963077" duration="422000" />
+      <workItem from="1777913735473" duration="1276000" />
+      <workItem from="1777966703064" duration="814000" />
+      <workItem from="1777967538186" duration="116000" />
+      <workItem from="1777967901231" duration="65000" />
+      <workItem from="1777967979837" duration="171000" />
+      <workItem from="1778067818092" duration="805000" />
+      <workItem from="1778068667470" duration="541000" />
+      <workItem from="1778098653031" duration="82000" />
+      <workItem from="1778099055204" duration="1121000" />
+      <workItem from="1778100815804" duration="992000" />
+    </task>
+    <task id="LOCAL-00001" summary="Tässä on moduuli3 tehtävät. Unohdin palauttaa nyt palautin.">
+      <option name="closed" value="true" />
+      <created>1778099324923</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778099324923</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Moduuli4 tehtävä">
+      <option name="closed" value="true" />
+      <created>1778100861717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778100861717</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tässä on moduuli3 tehtävät. Unohdin palauttaa nyt palautin." />
+    <MESSAGE value="Moduuli4 tehtävä" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moduuli4 tehtävä" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Ohjelmisto2$Peli.coverage" NAME="Peli Coverage Results" MODIFIED="1777967514147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lentopeli2026-main" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto2$app.coverage" NAME="app Coverage Results" MODIFIED="1777968097425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Roulette-minipeli" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto2$app__2_.coverage" NAME="app (2) Coverage Results" MODIFIED="1777966770946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Roulette-minipeli" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto2$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1777805223626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/roulette_a2" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto2$Lore.coverage" NAME="Lore Coverage Results" MODIFIED="1777966764791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lentopeli2026-main" />
+  </component>
+</project>
