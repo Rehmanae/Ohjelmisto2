@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f04e1923-4cab-435d-b290-c192ce7b05f2" name="Changes" comment="Moduuli4 tehtävä">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/harjoitus/task1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/harjoitus/task1/script.js" beforeDir="false" />
-    </list>
+    <list default="true" id="f04e1923-4cab-435d-b290-c192ce7b05f2" name="Changes" comment="Moduuli4 tehtävä" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +67,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Rebasing main",
     "junie.onboarding.icon.badge.shown": "true",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -138,7 +133,7 @@
       <workItem from="1778068667470" duration="541000" />
       <workItem from="1778098653031" duration="82000" />
       <workItem from="1778099055204" duration="1121000" />
-      <workItem from="1778100815804" duration="992000" />
+      <workItem from="1778100815804" duration="1383000" />
     </task>
     <task id="LOCAL-00001" summary="Tässä on moduuli3 tehtävät. Unohdin palauttaa nyt palautin.">
       <option name="closed" value="true" />
